@@ -32,7 +32,12 @@ alt="huseyn-tapdiqli" height="30" width="40" /></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sass" width="43" height="43" /> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="sass" width="83" height="43" /> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="matplot"> <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="sass" width="83" height="43" /></a>
+<a href="https://numpy.org/" target="_blank" rel="numpy"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="sass" width="83" height="43" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="pandas"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" alt="sass" width="83" height="43" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="seaborn"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="sass" width="83" height="43" /></a>
 </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huseynt&show_icons=true&locale=en" alt="huseynt" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseynt&" alt="huseynt" />
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseynt&show_icons=true&locale=en&layout=compact" alt="huseynt" /></p>
