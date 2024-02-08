@@ -21,7 +21,7 @@ alt="huseyn-tapdiqli" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/6/69/AutoCAD_2017_lockup_OL_stacked_no_year.png" alt="autocad" width="90" height="30" /> </a>
+<a href="https://www.coursera.org/account/accomplishments/verify/BMJ9ZVCLBAC4?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/6/69/AutoCAD_2017_lockup_OL_stacked_no_year.png" alt="autocad" width="90" height="30" /> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
