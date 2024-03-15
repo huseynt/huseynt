@@ -33,7 +33,7 @@ alt="huseyn-tapdiqli" height="30" width="40" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" alt="pandas" width="83" height="43" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="83" height="43" /></a>
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="83" height="43" /></a>
-<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap5" width="30" height="30" /></a>
+<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap5" width="40" height="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huseynt&show_icons=true&locale=en" alt="huseynt" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseynt&" alt="huseynt" />
