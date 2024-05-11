@@ -36,6 +36,9 @@ alt="huseyn-tapdiqli" height="30" width="40" /></a>
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap5" width="40" height="37" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huseynt&show_icons=true&locale=en" alt="huseynt" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseynt&" alt="huseynt" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseynt&show_icons=true&locale=tr&theme=merko" alt="huseynt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseynt&show_icons=true&locale=tr&layout=compact&theme=merko" alt="huseynt" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseynt&locale=tr&theme=merko" alt="huseynt" />
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseynt&show_icons=true&locale=en&layout=compact" alt="huseynt" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseynt&show_icons=true&locale=tr&layout=compact&theme=merko" alt="huseynt" /></p>
