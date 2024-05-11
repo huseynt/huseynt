@@ -37,8 +37,8 @@ alt="huseyn-tapdiqli" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseynt&show_icons=true&locale=tr&theme=merko" alt="huseynt" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseynt&show_icons=true&locale=tr&layout=compact&theme=merko" alt="huseynt" />
+  <img align="center" style="width:495px" src="https://github-readme-stats.vercel.app/api?username=huseynt&show_icons=true&locale=tr&theme=merko" alt="huseynt" />
+  <img align="center" style="width:495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseynt&show_icons=true&locale=tr&layout=compact&theme=merko" alt="huseynt" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseynt&locale=tr&theme=merko" alt="huseynt" />
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseynt&show_icons=true&locale=tr&layout=compact&theme=merko" alt="huseynt" /></p>
