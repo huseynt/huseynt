@@ -23,21 +23,76 @@ alt="huseyn-tapdiqli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-<a href="https://www.coursera.org/account/accomplishments/verify/BMJ9ZVCLBAC4?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse" target="_blank"> <img src="https://static.wikia.nocookie.net/logopedia/images/6/69/AutoCAD_2017_lockup_OL_stacked_no_year.png" alt="autocad" width="90" height="30" /> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="43" height="43" /> </a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank"> <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="powerbi" width="83" height="43" /> </a>
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplot" width="83" height="43" /></a>
-<a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="numpy" width="83" height="43" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" alt="pandas" width="83" height="43" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="83" height="43" /></a>
-<a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="83" height="43" /></a>
-<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap5" width="40" height="37" /></a>
-</p>
+
+<table align="center" style="background-color:#2e3136">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="icon" />
+       <br>React
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="60" height="65" />
+      <br>SASS
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Redux TK
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" style="background-color:#fff"/>
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="HTML5" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="css" />
+      <br>Vite
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+      <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="SQL" />
+      <br>Pandas
+    </td>
+        <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="48" height="48" alt="Nodejs" />
+      <br>Numpy
+      </td>
+    </td>
+ </tr>
+</table>
+
+<br>
 
 
 <p align="center">
