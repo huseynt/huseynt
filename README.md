@@ -120,4 +120,4 @@ alt="huseyn-tapdiqli" height="30" width="40" /></a>
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg"/></p>
+<!-- <p align="center"><img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg"/></p> -->
